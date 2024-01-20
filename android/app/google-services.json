@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1000218100414",
+    "project_id": "fir-work-d4e7d",
+    "storage_bucket": "fir-work-d4e7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000218100414:android:b12b28f32f82747f9c94ef",
+        "android_client_info": {
+          "package_name": "com.example.work"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuNrR4pZtKw4SOqW9qqs1g8akUDnhcuEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
